@@ -1,5 +1,3 @@
-# Kim-AssistantManagers-Day 
-
 <h3 align="center"> :pushpin: Build Stacks :pushpin: </h3>
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" width="60px"/> 
