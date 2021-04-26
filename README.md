@@ -5,5 +5,8 @@
 
 :pushpin: Build Stacks :pushpin:
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" width="50px"/>
 
+IDEs/Editors
+
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
