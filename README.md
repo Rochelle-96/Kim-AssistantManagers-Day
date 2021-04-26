@@ -1,4 +1,4 @@
-# <div style="text-align: center">Kim-AssistantManagers-Day</div>
+# Kim-AssistantManagers-Day
 
 ### :pushpin: Build Stacks :pushpin:
 
